@@ -15,23 +15,24 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 Challenges | Points | Status
 ---------- | ------ | ------
 [2Warm](General-Skills/2-warm.md) | 50 | Solved
-[Warmed Up](General-Skills/Warmed-up.md) | 50 | Solved
-[First Grep](General-Skills/First-grep.md) | 100 | Solved
+[Warmed-Up](General-Skills/Warmed-up.md) | 50 | Solved
+[First-Grep](General-Skills/First-grep.md) | 100 | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
 ---------- | ------ | ------
 [Insp3ct0r](Web-Exploitation/Insp3ct0r.md) | 50 | Solved
-[where are the robots](Web-Exploitation/where-robots.md) | 100 | Solved
+[where-are-the-robots](Web-Exploitation/where-robots.md) | 100 | Solved
 
 # Crytography
 Challenges | Points | Status
 ---------- | ------ | ------
-[The Numbers](Cryptography/The-numbers.md) | 50 | Solved
+[The-Numbers](Cryptography/The-numbers.md) | 50 | Solved
 
 # Foresics
 Challenges | Points | Status
 ---------- | ------ | ------
+[Glory-of-the-Garden](Forensics/glory-garden.md) | 50 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
