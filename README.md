@@ -4,16 +4,12 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 
 # Content Page
 
-* [General Skills](README.md#General-Skills)
-* [Web Exploitation](README.md#Web-Exploitation)
-* [Cryptography](README.md#Crytography)
-* [Forensics](README.md#Foresics)
-* [Reverse Engineering](README.md#Reverse-Engineering)
-* [Binary Exploitation](README.md#Binary-Exploitation)
-
-<!-- * [Forensics](https://github.com/m14ghost/PicoCTF-2019-Writeup#Foresics)
-
-* [Reverse Engineering](https://github.com/m14ghost/PicoCTF-2019-Writeup#Reverse-Engineering) -->
+* [General Skills](https://github.com/Brucius/PicoCTF-Gym-Writeup#general-skills)
+* [Web Exploitation](https://github.com/Brucius/PicoCTF-Gym-Writeup#web-exploitation)
+* [Cryptography](https://github.com/Brucius/PicoCTF-Gym-Writeup#crytography)
+* [Forensics](https://github.com/Brucius/PicoCTF-Gym-Writeup#foresics)
+* [Reverse Engineering](https://github.com/Brucius/PicoCTF-Gym-Writeup#reverse-engineering)
+* [Binary Exploitation](https://github.com/Brucius/PicoCTF-Gym-Writeup#binary-exploitation)
 
 # General-Skills
 Challenges | Points | Status
