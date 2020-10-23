@@ -6,7 +6,7 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 
 * [General Skills](README.md#General-Skills)
 * [Web Exploitation](README.md#Web-Exploitation)
-* [Cryptography](README.md#cryptography)
+* [Cryptography](README.md#Crytography)
 * [Forensics](README.md#Foresics)
 * [Reverse Engineering](README.md#Reverse-Engineering)
 * [Binary Exploitation](README.md#Binary-Exploitation)
