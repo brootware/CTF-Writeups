@@ -1,6 +1,6 @@
-# PicoCTF-2019-Writeup
+# PicoCTF-Gym-Writeups
 
-CTF's writeups 
+A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/picoCTF-tools.
 
 # Content Page
 
