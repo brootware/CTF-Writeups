@@ -6,7 +6,7 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 
 <!-- * [Web Exploitation](https://github.com/m14ghost/PicoCTF-2019-Writeup#Web-Exploitation) -->
 * [Cryptography](README.md#Cryptography)
-* [General Skills](README.md#Cryptography#General-Skills)
+* [General Skills](README.md#General-Skills)
 <!-- * [Forensics](https://github.com/m14ghost/PicoCTF-2019-Writeup#Foresics)
 
 * [Reverse Engineering](https://github.com/m14ghost/PicoCTF-2019-Writeup#Reverse-Engineering) -->
