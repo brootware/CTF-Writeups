@@ -19,7 +19,7 @@ Challenges | Points | Status
 # General Skills
 Challenges | Points | Status
 ---------- | ------ | ------
-[Lets Warm Up](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/General%20Skills/Lets-warm-up.md) | 50 | Solved
+[Lets Warm Up](General-Skills/2-warm.md) | 50 | Solved
 
 <!-- # Web Exploitation
 
