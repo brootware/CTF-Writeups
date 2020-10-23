@@ -28,6 +28,7 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [The-Numbers](Cryptography/The-numbers.md) | 50 | Solved
+[caesar](Cryptography/caesar.md) | 100 | Solved
 
 # Foresics
 Challenges | Points | Status
