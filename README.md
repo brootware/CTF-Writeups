@@ -4,22 +4,30 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 
 # Content Page
 
-<!-- * [Web Exploitation](https://github.com/m14ghost/PicoCTF-2019-Writeup#Web-Exploitation) -->
+* [Web Exploitation](README.md#Web-Exploitation)
 * [Cryptography](README.md#Cryptography)
 * [General Skills](README.md#General-Skills)
 <!-- * [Forensics](https://github.com/m14ghost/PicoCTF-2019-Writeup#Foresics)
 
 * [Reverse Engineering](https://github.com/m14ghost/PicoCTF-2019-Writeup#Reverse-Engineering) -->
 
+# Web-Exploitation
+
+Challenges | Points | Status
+---------- | ------ | ------
+[Insp3ct0r](Web-Exploitation/Insp3ct0r.md) | 50 | Solved
+
 # Crytography
 Challenges | Points | Status
 ---------- | ------ | ------
 [The Numbers](Cryptography/The-numbers.md) | 50 | Solved
 
-# General Skills
+# General-Skills
 Challenges | Points | Status
 ---------- | ------ | ------
 [Lets Warm Up](General-Skills/2-warm.md) | 50 | Solved
+
+
 
 <!-- # Web Exploitation
 
