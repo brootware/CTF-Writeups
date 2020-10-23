@@ -14,7 +14,8 @@ A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to so
 # General-Skills
 Challenges | Points | Status
 ---------- | ------ | ------
-[Lets Warm Up](General-Skills/2-warm.md) | 50 | Solved
+[2Warm](General-Skills/2-warm.md) | 50 | Solved
+[Warmed Up](General-Skills/Warmed-up.md) | 50 | Solved
 
 # Web-Exploitation
 Challenges | Points | Status

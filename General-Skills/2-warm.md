@@ -20,4 +20,4 @@ Simply converting number 42 (base 10) to binary (base 2). [Ascii table](https://
 
 ## Improvement
 
-A quick python script can be written to quickly replace all the numbers with letters vice versa.
+A quick python script can be written to quickly convert bases instead of referring to ascii table.
