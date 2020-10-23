@@ -1,14 +1,19 @@
-# PicoCTF-Gym-Writeups
+# PicoCTF-2019-Writeup
 
-A collection of PicoCTF-Gym-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/picoCTF-tools.
+CTF's writeups 
 
 # Content Page
 
-* [Web Exploitation](Web-Exploitation)
-* [Cryptography](Cryptography)
-* [Forensics](Forensics)
-* [General Skills](General-Skills)
-* [Reverse Engineering](Reverse-Engineering)
+<!-- * [Web Exploitation](https://github.com/m14ghost/PicoCTF-2019-Writeup#Web-Exploitation) -->
+* [Cryptography](README.md#Cryptography)
+<!-- * [Forensics](https://github.com/m14ghost/PicoCTF-2019-Writeup#Foresics)
+* [General Skills](https://github.com/m14ghost/PicoCTF-2019-Writeup#General-Skills)
+* [Reverse Engineering](https://github.com/m14ghost/PicoCTF-2019-Writeup#Reverse-Engineering) -->
+
+# Crytography
+Challenges | Points | Status
+---------- | ------ | ------
+[The Numbers](Cryptography/The-numbers.md) | 50 | Solved
 
 <!-- # Web Exploitation
 
@@ -62,4 +67,4 @@ Challenges | Points | Status
 ---------- | ------ | ------
 [handy-shellcode](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/handy-shellcode.md) | 50 | Solved
 [practice-run-1](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/practice-run-1.md) | 50 | Solved
-[OverFlow 0](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/OverFlow-0.md) | 100 | Solved
+[OverFlow 0](https://github.com/m14ghost/PicoCTF-2019-Writeup/blob/master/Binary%20Exploitation/OverFlow-0.md) | 100 | Solved -->
