@@ -30,7 +30,7 @@ Challenges | Points | Status
 [The-Numbers](Cryptography/The-numbers.md) | 50 | Solved
 [caesar](Cryptography/caesar.md) | 100 | Solved
 
-# Foresics
+# Forensics
 Challenges | Points | Status
 ---------- | ------ | ------
 [Glory-of-the-Garden](Forensics/glory-garden.md) | 50 | Solved
