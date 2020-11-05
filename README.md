@@ -17,6 +17,7 @@ Challenges | Points | Status
 [2Warm](General-Skills/2-warm.md) | 50 | Solved
 [Warmed-Up](General-Skills/Warmed-up.md) | 50 | Solved
 [First-Grep](General-Skills/First-grep.md) | 100 | Solved
+[strings-it](General-Skills/strings-it.md) | 100 | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
