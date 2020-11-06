@@ -20,7 +20,7 @@ For this particular challenge, the file given is a 64-bit executable. There is a
 
 So it is not as simple as doing a cat on the text file. The hint on using ```strings``` command is given to solve this flag.
 
-```bash
+```console
 wget https://jupiter.challenges.picoctf.org/static/fae9ac5267cd6e44124e559b901df177/strings
 
 file strings

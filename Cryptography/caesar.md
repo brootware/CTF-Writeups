@@ -18,7 +18,7 @@ caesar cipher [tutorial](https://privacycanada.net/classical-encryption/caesar-c
 
 A text file with cipher text is given to download. The important part of the caesar cipher tutorial is on the mathematical algorithm to encrypt and decrypt.
 
-```bash 
+```console
 picoCTF{gvswwmrkxlivyfmgsrhnrisegl}
 ```
 
@@ -73,7 +73,7 @@ if __name__ == "__main__":
 ```
 
 Run the program as below and input the encrypted message.
-```bash
+```console
 python3 caesar.py
 Key in your caesar encrypted message : gvswwmrkxlivyfmgsrhnrisegl
 picoCTF{gvswwmrkxlivyfmgsrhnrisegl}

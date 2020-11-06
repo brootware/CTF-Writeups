@@ -18,7 +18,7 @@ The flag is in the format PICOCTF{}
 
 A picture of the numbers in PNG format is given to be downloaded as such the numbers are as below.
 
-```bash
+```console
 16 9 3 15 3 20 6 { 20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }
 ```
 

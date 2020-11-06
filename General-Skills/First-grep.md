@@ -16,7 +16,7 @@ grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
 ## Solution
 
-```bash
+```console
 wget https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
 
 cat file | grep picoCTF{ > flag.txt

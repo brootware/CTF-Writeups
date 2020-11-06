@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/Brucius/picoCTF-tools/main/vignereCipher.py
 
 Below is an example of running the program
 
-```bash
+```console
 wget https://raw.githubusercontent.com/Brucius/picoCTF-tools/main/vignereCipher.py
 
 python3 vignereCipher.py
