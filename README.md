@@ -20,6 +20,7 @@ Challenges | Points | Status
 [Warmed-Up](General-Skills/Warmed-up.md) | 50 | Solved
 [First-Grep](General-Skills/First-grep.md) | 100 | Solved
 [strings-it](General-Skills/strings-it.md) | 100 | Solved
+[whats-a-net-cat](General-Skills/whats-a-net-cat.md) | 100 | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
