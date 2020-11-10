@@ -27,6 +27,7 @@ Challenges | Points | Status
 ---------- | ------ | ------
 [Insp3ct0r](Web-Exploitation/Insp3ct0r.md) | 50 | Solved
 [where-are-the-robots](Web-Exploitation/where-robots.md) | 100 | Solved
+[dont-use-client-side](Web-Exploitation/dont-use-client-side.md) | 100 | Solved
 
 # Crytography
 Challenges | Points | Status
