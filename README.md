@@ -46,6 +46,7 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [vault-door-training](Reverse-Engineering/vault-door.md) | 50 | Solved
+[vault-door-1](Reverse-Engineering/vault-door-1.md) | 100 | Solved
 
 # Binary-Exploitation
 Challenges | Points | Status
