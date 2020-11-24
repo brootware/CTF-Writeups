@@ -42,7 +42,8 @@ Challenges | Points | Status
 Challenges | Points | Status
 ---------- | ------ | ------
 [Glory-of-the-Garden](Forensics/glory-garden.md) | 50 | Solved
-[Soe-Meta](Forensics/so-meta.md) | 150 | Solved
+[So-Meta](Forensics/so-meta.md) | 150 | Solved
+[Extensions](Forensics/extensions.md) | 150 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
