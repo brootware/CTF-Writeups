@@ -37,6 +37,7 @@ Challenges | Points | Status
 [caesar](Cryptography/caesar.md) | 100 | Solved
 [Easy1](Cryptography/easy1.md) | 100 | Solved
 [13](Cryptography/13.md) | 100 | Solved
+[Mr-Worldwide](Cryptography/Mr-worldwide.md) | 200 | Solved
 
 # Forensics
 Challenges | Points | Status
