@@ -45,6 +45,7 @@ Challenges | Points | Status
 [So-Meta](Forensics/so-meta.md) | 150 | Solved
 [Extensions](Forensics/extensions.md) | 150 | Solved
 [What-lies-within](Forensics/what-lies-within.md) | 150 | Solved
+[shark-on-wire-1](Forensics/shark-on-wire-1.md) | 150 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
