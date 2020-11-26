@@ -18,5 +18,7 @@ There is data encoded somewhere... there might be an online decoder.
 
 Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. There are several steganography tools available online to decode and encode messages into the files.
 
+For this challenge, [this online tool](https://stylesuxx.github.io/steganography/) is used to decode the flag hidden inside the image.
+
 ## Improvement
 None
