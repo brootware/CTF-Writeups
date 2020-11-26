@@ -21,6 +21,7 @@ Challenges | Points | Status
 [First-Grep](General-Skills/First-grep.md) | 100 | Solved
 [strings-it](General-Skills/strings-it.md) | 100 | Solved
 [whats-a-net-cat](General-Skills/whats-a-net-cat.md) | 100 | Solved
+[plumbing](General-Skills/plumbing.md) | 100 | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
