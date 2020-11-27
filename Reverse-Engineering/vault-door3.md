@@ -82,7 +82,7 @@ class VaultDoor3 {
     public static void main(String args[]) {
         VaultDoor3 vaultDoor = new VaultDoor3();
         Scanner scanner = new Scanner(System.in);
-        vaultDoor.reverseEngineerPw();
+        vaultDoor.reverseEngineerPw();   // NEW FUNCTION ADDED HERE
         System.out.print("Enter vault password: ");
         String userInput = scanner.next();
 	String input = userInput.substring("picoCTF{".length(),userInput.length()-1);
