@@ -1,6 +1,6 @@
-# CTF-Gym-Writeups
+# CTF-Writeups
 
-A collection of CTF-Gym-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/picoCTF-tools.
+A collection of CTF-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/picoCTF-tools.
 
 **QUICK DISCLAIMER** : These are only writeups to document my thought process while solving a challenge. Only the how-tos are written and all of the solutions are not given in these writeups to prevent spoiling the fun.
 
