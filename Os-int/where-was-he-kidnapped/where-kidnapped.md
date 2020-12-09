@@ -22,11 +22,16 @@ govtech-csg{760870}
 First video was showing a bus arriving that the engineer is taking to get to a place. 
 
 The first video file shows of bus 117 that is going towards Punggol interchange on Yishun Avenue 2. Note that there is an MRT station in the background which means the engineer was either opposite of Yishun or Khatib station by referencing the bus service route.
+
+
 ![image](./1.png)
+
 
 Bus 117 service route can be found on transitlink website.
 https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=117
 The second video shows the engineer getting off at a stop that is within a distant from the MRT. The video also shows two striking yellow colored columns which helped identify the stop number that the engineer got off at which is Blk 871.
+
+
 ![image](./2.png)
 ![image](./3.png)
 
@@ -38,4 +43,6 @@ The third video and second video were created only 2 minutes apart which means t
 ![image](./5.png)
 
 The third video also shows a void deck with a table and a community garden in the background. By following these clues, blk 870 is narrowed down where the engineer was last spotted before being kidnapped. The postal code of blk 870 is 760870.
+
+
 ![image](./6.png)
