@@ -57,6 +57,11 @@ Challenges | Points | Status
 [vault-door-1](Reverse-Engineering/vault-door-1.md) | 100 | Solved
 [vault-door-3](Reverse-Engineering/vault-door3.md) | 200 | Solved
 
+# Os-int
+Challenges | Points | Status
+---------- | ------ | ------
+[where-was-he-kidnapped](OS-int/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
+
 # Binary-Exploitation
 Challenges | Points | Status
 ---------- | ------ | ------
