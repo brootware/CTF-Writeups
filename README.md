@@ -60,7 +60,7 @@ Challenges | Points | Status
 # Os-int
 Challenges | Points | Status
 ---------- | ------ | ------
-[where-was-he-kidnapped](OS-int/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
+[where-was-he-kidnapped](Os-int/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
 
 # Binary-Exploitation
 Challenges | Points | Status
