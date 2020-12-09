@@ -6,12 +6,13 @@ A collection of CTF-Writeups. I have also written some quick tools to solve gene
 
 # Content Page
 
-* [General Skills](https://github.com/Brucius/PicoCTF-Gym-Writeup#general-skills)
-* [Web Exploitation](https://github.com/Brucius/PicoCTF-Gym-Writeup#web-exploitation)
-* [Cryptography](https://github.com/Brucius/PicoCTF-Gym-Writeup#crytography)
-* [Forensics](https://github.com/Brucius/PicoCTF-Gym-Writeup#foresics)
-* [Reverse Engineering](https://github.com/Brucius/PicoCTF-Gym-Writeup#reverse-engineering)
-* [Binary Exploitation](https://github.com/Brucius/PicoCTF-Gym-Writeup#binary-exploitation)
+* [General Skills](https://github.com/Brucius/CTF-Writeups#general-skills)
+* [Web Exploitation](https://github.com/Brucius/CTF-Writeups#web-exploitation)
+* [Cryptography](https://github.com/Brucius/CTF-Writeups#crytography)
+* [Forensics](https://github.com/Brucius/CTF-Writeups#foresics)
+* [Reverse Engineering](https://github.com/Brucius/CTF-Writeups#reverse-engineering)
+* [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Os-int)
+* [Binary Exploitation](https://github.com/Brucius/CTF-Writeups#binary-exploitation)
 
 # General-Skills
 Challenges | Points | Status
