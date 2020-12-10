@@ -11,7 +11,7 @@ A collection of CTF-Writeups. I have also written some quick tools to solve gene
 * [Cryptography](https://github.com/Brucius/CTF-Writeups#crytography)
 * [Forensics](https://github.com/Brucius/CTF-Writeups#foresics)
 * [Reverse Engineering](https://github.com/Brucius/CTF-Writeups#reverse-engineering)
-* [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Osint)
+* [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Open-Source-Intelligence)
 * [Binary Exploitation](https://github.com/Brucius/CTF-Writeups#binary-exploitation)
 
 # General-Skills
@@ -57,7 +57,7 @@ Challenges | Points | Status
 [vault-door-1](Reverse-Engineering/vault-door-1.md) | 100 | Solved
 [vault-door-3](Reverse-Engineering/vault-door3.md) | 200 | Solved
 
-# Open source intelligence
+# Open-Source-Intelligence
 Challenges | Points | Status
 ---------- | ------ | ------
 [where-was-he-kidnapped](Osint/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
