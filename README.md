@@ -1,6 +1,6 @@
 # CTF-Writeups
 
-A collection of CTF-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/picoCTF-tools.
+A collection of CTF-Writeups. I have also written some quick tools to solve general CTF problems and can be found at https://github.com/Brucius/CTF-tools.
 
 **QUICK DISCLAIMER** : These are only writeups to document my thought process while solving a challenge. Only the how-tos are written and all of the solutions are not given in these writeups to prevent spoiling the fun.
 
@@ -11,7 +11,7 @@ A collection of CTF-Writeups. I have also written some quick tools to solve gene
 * [Cryptography](https://github.com/Brucius/CTF-Writeups#crytography)
 * [Forensics](https://github.com/Brucius/CTF-Writeups#foresics)
 * [Reverse Engineering](https://github.com/Brucius/CTF-Writeups#reverse-engineering)
-* [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Os-int)
+* [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Osint)
 * [Binary Exploitation](https://github.com/Brucius/CTF-Writeups#binary-exploitation)
 
 # General-Skills
@@ -57,10 +57,10 @@ Challenges | Points | Status
 [vault-door-1](Reverse-Engineering/vault-door-1.md) | 100 | Solved
 [vault-door-3](Reverse-Engineering/vault-door3.md) | 200 | Solved
 
-# Os-int
+# Open source intelligence
 Challenges | Points | Status
 ---------- | ------ | ------
-[where-was-he-kidnapped](Os-int/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
+[where-was-he-kidnapped](Osint/where-was-he-kidnapped/where-kidnapped.md)| 1000 | Solved
 
 # Binary-Exploitation
 Challenges | Points | Status
