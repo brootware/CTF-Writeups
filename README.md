@@ -31,6 +31,7 @@ Challenges | Points | Status
 [where-are-the-robots](Web-Exploitation/where-robots.md) | 100 | Solved
 [dont-use-client-side](Web-Exploitation/dont-use-client-side.md) | 100 | Solved
 [logon](Web-Exploitation/logon.md) | 100 | Solved
+[logon](Web-Exploitation/client-side-again.md) | 200 | Solved
 
 # Crytography
 Challenges | Points | Status
