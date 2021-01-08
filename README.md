@@ -33,6 +33,7 @@ Challenges | Points | Status
 [logon](Web-Exploitation/logon.md) | 100 | Solved
 [client-side-again](Web-Exploitation/client-side-again.md) | 200 | Solved
 [open-to-admins](Web-Exploitation/open-to-admins.md) | 200 | Solved
+[picoBrowser](Web-Exploitation/picoBrowser.md) | 200 | Solved
 
 
 # Crytography
