@@ -54,6 +54,7 @@ Challenges | Points | Status
 [What-lies-within](Forensics/what-lies-within.md) | 150 | Solved
 [shark-on-wire-1](Forensics/shark-on-wire-1.md) | 150 | Solved
 [Taking-LS](Forensics/taking-ls.md) | 30 | Solved
+[git-is-good](Forensics/gitGood.md) | 30 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
