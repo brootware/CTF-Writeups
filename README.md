@@ -44,6 +44,7 @@ Challenges | Points | Status
 [Easy1](Cryptography/easy1.md) | 100 | Solved
 [13](Cryptography/13.md) | 100 | Solved
 [Mr-Worldwide](Cryptography/Mr-worldwide.md) | 200 | Solved
+[Crack-the-hashes](Cryptography/crack-the-hash.md) | None | Solved
 
 # Forensics
 Challenges | Points | Status
