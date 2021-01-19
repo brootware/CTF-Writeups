@@ -9,7 +9,7 @@ A collection of CTF-Writeups. I have also written some quick tools to solve gene
 * [General Skills](https://github.com/Brucius/CTF-Writeups#general-skills)
 * [Web Exploitation](https://github.com/Brucius/CTF-Writeups#web-exploitation)
 * [Cryptography](https://github.com/Brucius/CTF-Writeups#crytography)
-* [Cloud-Forensics](https://github.com/Brucius/CTF-Writeups#Cloud-Forensics)
+* [Forensics](https://github.com/Brucius/CTF-Writeups#Forensics)
 * [Reverse Engineering](https://github.com/Brucius/CTF-Writeups#reverse-engineering)
 * [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Open-Source-Intelligence)
 * [Binary Exploitation](https://github.com/Brucius/CTF-Writeups#binary-exploitation)
@@ -23,6 +23,7 @@ Challenges | Points | Status
 [strings-it](General-Skills/strings-it.md) | 100 | Solved
 [whats-a-net-cat](General-Skills/whats-a-net-cat.md) | 100 | Solved
 [plumbing](General-Skills/plumbing.md) | 100 | Solved
+[leakybuckets](General-Skills/leakybuckets.md) | None | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
@@ -47,17 +48,16 @@ Challenges | Points | Status
 [Crack-the-hashes](Cryptography/crack-the-hash.md) | None | Solved
 
 
-# Cloud-Forensics
+# Forensics
 Challenges | Points | Status
 ---------- | ------ | ------
-[Glory-of-the-Garden](Cloud-Forensics/glory-garden.md) | 50 | Solved
-[So-Meta](Cloud-Forensics/so-meta.md) | 150 | Solved
-[Extensions](Cloud-Forensics/extensions.md) | 150 | Solved
-[What-lies-within](Cloud-Forensics/what-lies-within.md) | 150 | Solved
-[shark-on-wire-1](Cloud-Forensics/shark-on-wire-1.md) | 150 | Solved
-[Taking-LS](Cloud-Forensics/taking-ls.md) | 30 | Solved
-[git-is-good](Cloud-Forensics/gitGood.md) | 30 | Solved
-[leakybuckets](Cloud-Forensics/leakybuckets.md) | None | Solved
+[Glory-of-the-Garden](Forensics/glory-garden.md) | 50 | Solved
+[So-Meta](Forensics/so-meta.md) | 150 | Solved
+[Extensions](Forensics/extensions.md) | 150 | Solved
+[What-lies-within](Forensics/what-lies-within.md) | 150 | Solved
+[shark-on-wire-1](Forensics/shark-on-wire-1.md) | 150 | Solved
+[Taking-LS](Forensics/taking-ls.md) | 30 | Solved
+[git-is-good](Forensics/gitGood.md) | 30 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
