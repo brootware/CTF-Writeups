@@ -4,7 +4,7 @@ https://tryhackme.com/room/leakybuckets
 
 ## Category
 
-Cloud-Forensics
+General
 
 ## Question
 
