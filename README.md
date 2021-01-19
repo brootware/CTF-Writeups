@@ -9,7 +9,7 @@ A collection of CTF-Writeups. I have also written some quick tools to solve gene
 * [General Skills](https://github.com/Brucius/CTF-Writeups#general-skills)
 * [Web Exploitation](https://github.com/Brucius/CTF-Writeups#web-exploitation)
 * [Cryptography](https://github.com/Brucius/CTF-Writeups#crytography)
-* [Forensics](https://github.com/Brucius/CTF-Writeups#Cloud-Forensics)
+* [Cloud-Forensics](https://github.com/Brucius/CTF-Writeups#Cloud-Forensics)
 * [Reverse Engineering](https://github.com/Brucius/CTF-Writeups#reverse-engineering)
 * [Open source intelligence](https://github.com/Brucius/CTF-Writeups#Open-Source-Intelligence)
 * [Binary Exploitation](https://github.com/Brucius/CTF-Writeups#binary-exploitation)
