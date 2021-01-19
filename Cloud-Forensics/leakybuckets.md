@@ -1,4 +1,4 @@
-# Crack-the-hash
+# leakybuckets
 
 https://tryhackme.com/room/leakybuckets
 
