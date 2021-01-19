@@ -132,5 +132,15 @@ Stopped: Tue Jan 19 00:12:56 2021
 
 All of the tasks have similar workflow of cracking the hashes. Task 1.4, 2.3 would take quite some time for hashcat to go through all the possible combinations within rockyou.txt database.
 
+Task 2.4 will be a little different as the hash and salt has to be combined to crack with hashcat. Below is the workflow.
+
+```bash
+┌──(kali㉿kali)-[~/Documents/hashCatList]
+└─$ nano hmacsha1.txt
+e5d8870e5bdd26602cab8dbe07a942c8669e56d6:tryhackme
+
+hashcat -m 160 hmacsha1.txt rockyou.txt
+```
+
 ## Improvement
 None
