@@ -68,9 +68,9 @@ ________________________________________________
 ________________________________________________
 
 [Status: 200, Size: 578, Words: 4, Lines: 2]
-| URL | https://hustler-assets-s5f3tch.s3.amazonaws.com/
-    * WORD1: hustler
-    * WORD2: assets
+<!-- | URL | https://redacted-redacted-s5f3tch.s3.amazonaws.com/
+    * WORD1: redacted
+    * WORD2: redacted -->
 
 :: Progress: [1444/1444] :: Job [1/1] :: 18 req/sec :: Duration: [0:01:19] :: Errors: 0 :: 
 ```
@@ -80,40 +80,40 @@ This will give the solution to task 2.
 A leaking s3 bucket can be observed as above. The bucket endpoint can be checked by using curl to see if there's any sensitive data inside.
 
 ```console
-% curl https://hustler-assets-s5f3tch.s3.amazonaws.com
+% curl https://redacted-redacted-s5f3tch.s3.amazonaws.com
 <?xml version="1.0" encoding="UTF-8"?>
-<ListBucketResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Name>hustler-assets-s5f3tch</Name><Prefix></Prefix><Marker></Marker><MaxKeys>1000</MaxKeys><IsTruncated>false</IsTruncated><Contents><Key>pwnme.tar</Key><LastModified>2021-01-19T13:56:11.000Z</LastModified><ETag>&quot;032d0913ceda76c18ecacfcc51a6c323&quot;</ETag><Size>81920</Size><Owner><ID>b4969ce01677eaa59404cdb6c545f9f568bd945d51f274a9c7b5e4642f2b628f</ID><DisplayName>ominbruce</DisplayName></Owner><StorageClass>STANDARD</StorageClass></Contents></ListBucketResult>%  
+<ListBucketResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/"><Name>redacted-redacted-s5f3tch</Name><Prefix></Prefix><Marker></Marker><MaxKeys>1000</MaxKeys><IsTruncated>false</IsTruncated><Contents><Key>redacted.tar</Key><LastModified>2021-01-19T13:56:11.000Z</LastModified><ETag>&quot;032d0913ceda76c18ecacfcc51a6c323&quot;</ETag><Size>81920</Size><Owner><ID>b4969ce01677eaa59404cdb6c545f9f568bd945d51f274a9c7b5e4642f2b628f</ID><DisplayName>ominbruce</DisplayName></Owner><StorageClass>STANDARD</StorageClass></Contents></ListBucketResult>%  
 ```
 
-A zipped file called pwnme.tar is found for task 3.
+A zipped file called redacted.tar is found for task 3.
 
 ```console
-% wget https://hustler-assets-s5f3tch.s3.amazonaws.com/pwnme.tar
---2021-01-25 14:18:29--  https://hustler-assets-s5f3tch.s3.amazonaws.com/pwnme.tar
-Resolving hustler-assets-s5f3tch.s3.amazonaws.com (hustler-assets-s5f3tch.s3.amazonaws.com)... 52.219.124.228
-Connecting to hustler-assets-s5f3tch.s3.amazonaws.com (hustler-assets-s5f3tch.s3.amazonaws.com)|52.219.124.228|:443... connected.
+% wget https://redacted-redacted-s5f3tch.s3.amazonaws.com/redacted.tar
+--2021-01-25 14:18:29--  https://redacted-redacted-s5f3tch.s3.amazonaws.com/redacted.tar
+Resolving redacted-redacted-s5f3tch.s3.amazonaws.com (redacted-redacted-s5f3tch.s3.amazonaws.com)... 52.219.124.228
+Connecting to redacted-redacted-s5f3tch.s3.amazonaws.com (redacted-redacted-s5f3tch.s3.amazonaws.com)|52.219.124.228|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 81920 (80K) [application/x-tar]
-Saving to: ‘pwnme.tar’
+Saving to: ‘redacted.tar’
 
-pwnme.tar                   100%[===========================================>]  80.00K  --.-KB/s    in 0.09s   
+redacted.tar                   100%[===========================================>]  80.00K  --.-KB/s    in 0.09s   
 
-2021-01-25 14:18:30 (876 KB/s) - ‘pwnme.tar’ saved [81920/81920]
+2021-01-25 14:18:30 (876 KB/s) - ‘redacted.tar’ saved [81920/81920]
 ```
 
 ### flag1
 ```console
-% tar -xf pwnme.tar 
+% tar -xf redacted.tar 
 % ls   
-makeFlags         pwnme.tar
+makeFlags         redacted.tar
 % cd makeFlags 
 % cat flag1.txt 
-VEhNe0cwMGRfSjBiXzBuXzFzdF9mMWFHfQ==
+redacted
 ```
 The data seems to be encrypted in base64.
 ```console
-% echo 'VEhNe0cwMGRfSjBiXzBuXzFzdF9mMWFHfQ==' | base64 -d
-THM{G00d_J0b_0n_1st_f1aG}
+% echo 'redacted' | base64 -d
+flag{redacted}
 ```
 
 ### flag2
@@ -169,7 +169,7 @@ data.tar        data2
 % cd data2 
 
 cat flag2.txt 
-THM{qu1te_an_3asy_2nd_f1aG}                                                              
+flag{redacted}                                                           
 ```
 
 ### flag3
@@ -195,31 +195,13 @@ Previous git commits can be checked out using the following commands.
 ```console
 % git log
 commit 22dd32c133c06822aadc89d9b026cde3df687329 (HEAD -> master)
-Author: Kali <ominbruce@outlook.com>
+Author: Kali <user@email.com>
 Date:   Tue Jan 19 08:28:25 2021 -0500
 
     REDACTED
 
-commit af6284a181bd476e04013f705e8b7bdf134dc989
-Author: Kali <ominbruce@outlook.com>
-Date:   Tue Jan 19 08:28:00 2021 -0500
-
-    Nope, not this
-
-commit eb45eec0b00fd711c9055d404f5005c0af185f06
-Author: Kali <ominbruce@outlook.com>
-Date:   Tue Jan 19 08:27:41 2021 -0500
-
-    maybe this one?
-
-commit c48037adec25d037f22e65c3ae5da05441974704
-Author: Kali <ominbruce@outlook.com>
-Date:   Tue Jan 19 08:27:04 2021 -0500
-
-    hello friend
-
-% git checkout c480
-Note: checking out 'c480'.
+% git checkout redacted
+Note: checking out 'redacted'.
 
 You are in 'detached HEAD' state. You can look around, make experimental
 changes and commit them, and you can discard any commits you make in this
@@ -230,13 +212,13 @@ do so (now or later) by using -b with the checkout command again. Example:
 
   git checkout -b <new-branch-name>
 
-HEAD is now at c48037a hello friend
+HEAD is now at redacted
 
 % cat flag3.txt 
-VEhNe0cxdF9HMDAwMDAwMERfM3JkX2YxYWd9
+redacted
 
-% echo "VEhNe0cxdF9HMDAwMDAwMERfM3JkX2YxYWd9" | base64 -d
-THM{G1t_G0000000D_3rd_f1ag}
+% echo "redacted" | base64 -d
+flg{redacted}
 ```
 ## Improvement
 None
