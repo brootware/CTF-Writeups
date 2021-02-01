@@ -18,7 +18,7 @@ Task 1 can be easily achieved by reading the objective description and filling i
 ### Task 2
 Task to describes of a company that has a lot of s3 buckets deployed and lost track of the inventory. Luckily, there is a naming convention of these buckets from a list of randomly generated words available on a [secret repository](https://gist.github.com/Brucius/29ab688d971dc9d29a74cfa12968dfc4) of former lead engineer.
 
-The format is usually in ```word1-word2-s5f3tch.s3-(Region).amazonaws.com/objectName```  for buckets with objects in it.
+The format is usually in ```word1-word2-s5f3tch.s3.amazonaws.com/objectName```  for buckets with objects in it.
 
 First, the list of words to be used are downloaded locally.
 ```console
@@ -218,7 +218,7 @@ HEAD is now at redacted
 redacted
 
 % echo "redacted" | base64 -d
-flg{redacted}
+flag{redacted}
 ```
 ## Improvement
 None
