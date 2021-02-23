@@ -46,6 +46,7 @@ Challenges | Points | Status
 [13](Cryptography/13.md) | 100 | Solved
 [Mr-Worldwide](Cryptography/Mr-worldwide.md) | 200 | Solved
 [Crack-the-hashes](Cryptography/crack-the-hash.md) | None | Solved
+[Tapping](Cryptography/tapping.md) | 200 | Solved
 
 
 # Forensics
