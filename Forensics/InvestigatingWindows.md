@@ -1,6 +1,7 @@
 
 # Investigating Windows
-Point: NIL
+
+https://tryhackme.com/room/investigatingwindows
 
 ## Category
 

@@ -60,7 +60,7 @@ Challenges | Points | Status
 [shark-on-wire-1](Forensics/shark-on-wire-1.md) | 150 | Solved
 [Taking-LS](Forensics/taking-ls.md) | 30 | Solved
 [git-is-good](Forensics/gitGood.md) | 30 | Solved
-[investigatingWindows](Forensics/InvestigatingWindows.md) | 30 | Solved
+[investigatingWindows](Forensics/InvestigatingWindows.md) | None | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
