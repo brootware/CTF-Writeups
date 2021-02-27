@@ -95,7 +95,7 @@ This can be correlated to the event when a lot of processes gets suddenly starte
 ### At what time did Windows first assign special privileges to a new logon?
 ### Answer format: MM/DD/YYYY HH:MM:SS AM/PM
 From the event viewer, the date and time can be sorted from latest to oldest event to check when there has been an escalated logon to the system on 03/02/2019.
-![images](./investigateWin/speciallogin.png)
+![images](./investigateWin/specialLogin.png)
 
 ### What tool was used to get Windows passwords?
 There was an intermittent command prompt popup execution that was holding a mimikatz session.
