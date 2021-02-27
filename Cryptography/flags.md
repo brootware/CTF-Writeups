@@ -15,7 +15,7 @@ The flag is in the format PICOCTF{}
 
 ## Solution
 A png file of flags are arranged in the flag format.
-![image](./images/flag.png)
+![image](./flagsmd/flag.png)
 
 From the image, it can be deduced that each flag would have a letter tied to it. ```picoctf{.....}```
 

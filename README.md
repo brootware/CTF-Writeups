@@ -24,6 +24,7 @@ Challenges | Points | Status
 [whats-a-net-cat](General-Skills/whats-a-net-cat.md) | 100 | Solved
 [plumbing](General-Skills/plumbing.md) | 100 | Solved
 [leakybuckets](General-Skills/leakybuckets.md) | None | Solved
+[Based](General-Skills/based.md) | None | Solved
 
 # Web-Exploitation
 Challenges | Points | Status
@@ -59,6 +60,7 @@ Challenges | Points | Status
 [shark-on-wire-1](Forensics/shark-on-wire-1.md) | 150 | Solved
 [Taking-LS](Forensics/taking-ls.md) | 30 | Solved
 [git-is-good](Forensics/gitGood.md) | 30 | Solved
+[investigatingWindows](Forensics/InvestigatingWindows.md) | 30 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
