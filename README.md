@@ -77,4 +77,4 @@ Challenges | Points | Status
 # Binary-Exploitation
 Challenges | Points | Status
 ---------- | ------ | ------
-
+[lazy-game](BinexPwn/lazygamechallenge.md)| 1000 | Solved
