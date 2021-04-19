@@ -31,7 +31,7 @@ Install morse-talk using below command.
 ```
 
 The following python code is used to programmatically convert the morse code into plain text.
-```python3
+```python
 import morse_talk as mdecode
 code = ".--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. .---- ..--- -.... .---- ....- ...-- ---.. .---- ---.. .---- }"
 
