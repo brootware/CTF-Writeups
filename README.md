@@ -36,6 +36,7 @@ Challenges | Points | Status
 [client-side-again](Web-Exploitation/client-side-again.md) | 200 | Solved
 [open-to-admins](Web-Exploitation/open-to-admins.md) | 200 | Solved
 [picoBrowser](Web-Exploitation/picoBrowser.md) | 200 | Solved
+[Don't-bump-your-header](Web-Exploitation/dunBumpHeader.md) | 40 | Solved
 
 
 # Crytography

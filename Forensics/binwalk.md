@@ -1,5 +1,5 @@
 
-# Flags
+# Binwalk
 Point: 30
 
 ## Category
