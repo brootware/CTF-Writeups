@@ -61,7 +61,7 @@ Challenges | Points | Status
 [Taking-LS](Forensics/taking-ls.md) | 30 | Solved
 [git-is-good](Forensics/gitGood.md) | 30 | Solved
 [investigatingWindows](Forensics/InvestigatingWindows.md) | None | Solved
-[Binwalk] (Forensics/binwalk.md) | 40 | Solved
+[Binwalk](Forensics/binwalk.md) | 40 | Solved
 
 # Reverse-Engineering
 Challenges | Points | Status
