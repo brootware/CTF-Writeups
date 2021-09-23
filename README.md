@@ -49,6 +49,7 @@ Challenges | Points | Status
 [Mr-Worldwide](Cryptography/Mr-worldwide.md) | 200 | Solved
 [Crack-the-hashes](Cryptography/crack-the-hash.md) | None | Solved
 [Tapping](Cryptography/tapping.md) | 200 | Solved
+[CreditCardFraud](Cryptography/creditCardFraudster.md) | 20 | Solved
 
 
 # Forensics
