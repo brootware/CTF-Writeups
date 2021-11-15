@@ -37,7 +37,7 @@ Challenges | Points | Status
 [open-to-admins](Web-Exploitation/open-to-admins.md) | 200 | Solved
 [picoBrowser](Web-Exploitation/picoBrowser.md) | 200 | Solved
 [Don't-bump-your-header](Web-Exploitation/dunBumpHeader.md) | 40 | Solved
-[Looking-glass-FirewalkerCTF](Web-Exploitation/LookingGlass.md) | 325 | Solved
+[Looking-glass-HTB-FirewalkerCTF](Web-Exploitation/LookingGlass.md) | 325 | Solved
 
 
 # Crytography
